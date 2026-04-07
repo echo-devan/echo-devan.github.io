@@ -1,44 +1,35 @@
-===============================================================
-                    ECHO — CV ARTISTICO
-                (Andrea) — Italia, 2026
-===============================================================
+ECHO - CURRICULUM VITAE
 
-NOME ARTISTICO
-ECHO
+ARTIST INFORMATION
+Name: ECHO (pseudonym)
+Nationality: Italian
+Email: echo.devan.art@gmail.com
+Portfolio: https://echo-devan.github.io
+Press Kit: https://echo-devan.github.io/press-kit.html
 
-FORMAZIONE
-Autodidatta, formazione tra arte concettuale italiana e
-neo-minimalismo digitale.
+ARTIST STATEMENT
+"Non c'è cornice. Non c'è supporto. Non c'è distanza tra l'opera e il contesto. L'opera è il contesto."
 
-PRATICA ARTISTICA
-Lavora ai confini dell'oggetto e del suo contesto.
-Fotografia, installazione, conceptual art.
-Serie attuale: "Oggetti che non chiedono permesso"
+BIOGRAPHY
+ECHO è un artista visivo italiano attivo dal 2026. Il suo lavoro esplora la tensione tra l'oggetto e il suo contesto quotidiano attraverso fotografia, installazione e conceptual art.
+La serie "Oggetti che non chiedono permesso" indaga la presenza dell'oggetto nel vuoto — un cilindro azzurro su un tavolo, senza cornice, senza titolo apparente.
+L'opera si impone attraverso l'assenza di contesto istituzionale, ponendo la domanda: un oggetto smette di essere se nessuno lo usa?
 
-MOSTRE
-2026  Presenza Assoluta — Personale (online)
-2026  Più Meno Zero — Collettiva Minimalismo Contemporaneo, Milano
-2026  Anti-Arte 2.0 — Collettiva digitale, Biennale di Venezia
+SELECTED WORKS
+- "Presenza Assoluta", 2026 — Fotografia digitale, Edizione unica (Serie: Oggetti che non chiedono permesso)
 
-OPERE PRINCIPALI
-2026  "Presenza Assoluta" — Fotografia digitale, cilindro alluminio azzurro
-2026  "Assenza Giustificata" — La stessa fotografia, cornice vuota
-2026  "Senza Titolo (Oggetto N°3)" — Installazione
-2026  "Il Legno Ricorda" — Solo superficie lignea
+EXHIBITIONS
+2026 — Presenza Assoluta (Online)
 
-PUBBLICAZIONI
-2026  "L'Arte di Non Fare Niente" — ArteContemporanea.it
-2026  "Il Minimalismo del Terzo Millennio" — FlashArt Online
+SUBMISSIONS IN PROGRESS (2026)
+- BEERS London — Group Exhibition (Deadline: Giugno 2026)
+- ITS Liquid — Venezia
+- Arte Laguna Prize — Open Call 2026
+- The Hopper Prize — Spring 2026
 
-TEMATICHE
-Readymade contemporaneo, minimalismo radicale,
-tensione tra oggetto e contesto, assenza di funzione estetica.
+EDUCATION
+Formazione indipendente
 
-RIFERIMENTI
-Marcel Duchamp, Piero Manzoni, Donald Judd, Maurizio Cattelan
-
-CONTATTI
-Portfolio: echo-art.com (in preparazione)
-Email: [da configurare]
-
-===============================================================
+CONTACT
+Email: echo.devan.art@gmail.com
+Portfolio: https://echo-devan.github.io
