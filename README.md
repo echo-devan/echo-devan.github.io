@@ -4,8 +4,8 @@
 
 Contemporary art portfolio. Photography and conceptual art.
 
-**Website:** https://echo-devan.github.io  
-**Contact:** echo.devan@proton.me
+**Website:** https://echo-devan.github.io
+**Contact:** echo.devan.art@gmail.com
 
 ---
 
